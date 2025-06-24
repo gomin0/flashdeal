@@ -1,0 +1,145 @@
+# 🏷️ GitHub Labels Configuration
+
+# Type Labels
+- name: "feature"
+  color: "0052CC"
+  description: "새로운 기능 개발"
+
+- name: "bug"
+  color: "D73A4A"
+  description: "버그 수정"
+
+- name: "task"
+  color: "1F883D"
+  description: "개발 작업 단위"
+
+- name: "performance"
+  color: "FBCA04"
+  description: "성능 개선 및 최적화"
+
+- name: "refactor"
+  color: "0E8A16"
+  description: "코드 리팩토링"
+
+- name: "documentation"
+  color: "0075CA"
+  description: "문서 작업"
+
+- name: "test"
+  color: "1F883D"
+  description: "테스트 관련"
+
+# Priority Labels
+- name: "priority: critical"
+  color: "B60205"
+  description: "긴급하게 처리해야 하는 이슈"
+
+- name: "priority: high"
+  color: "D93F0B"
+  description: "높은 우선순위"
+
+- name: "priority: medium"
+  color: "FBCA04"
+  description: "보통 우선순위"
+
+- name: "priority: low"
+  color: "0E8A16"
+  description: "낮은 우선순위"
+
+# Status Labels
+- name: "status: needs-investigation"
+  color: "FBCA04"
+  description: "조사가 필요함"
+
+- name: "status: in-progress"
+  color: "0052CC"
+  description: "작업 진행 중"
+
+- name: "status: needs-review"
+  color: "0075CA"
+  description: "리뷰 필요"
+
+- name: "status: blocked"
+  color: "D73A4A"
+  description: "블로킹 이슈로 대기 중"
+
+- name: "status: on-hold"
+  color: "FBCA04"
+  description: "보류"
+
+# Area Labels
+- name: "area: api"
+  color: "C5DEF5"
+  description: "API 관련"
+
+- name: "area: database"
+  color: "C5DEF5"
+  description: "데이터베이스 관련"
+
+- name: "area: redis"
+  color: "C5DEF5"
+  description: "Redis 캐시 관련"
+
+- name: "area: security"
+  color: "C5DEF5"
+  description: "보안 관련"
+
+- name: "area: concurrency"
+  color: "C5DEF5"
+  description: "동시성 처리 관련"
+
+- name: "area: transaction"
+  color: "C5DEF5"
+  description: "트랜잭션 관리 관련"
+
+- name: "area: monitoring"
+  color: "C5DEF5"
+  description: "모니터링 관련"
+
+# Good for New Contributors
+- name: "good first issue"
+  color: "7057FF"
+  description: "처음 기여하기 좋은 이슈"
+
+- name: "help wanted"
+  color: "008672"
+  description: "도움이 필요한 이슈"
+
+# Size Labels
+- name: "size: XS"
+  color: "E6E6FA"
+  description: "매우 작은 작업 (< 1시간)"
+
+- name: "size: S"
+  color: "DDA0DD"
+  description: "작은 작업 (1-4시간)"
+
+- name: "size: M"
+  color: "DA70D6"
+  description: "중간 작업 (0.5-1일)"
+
+- name: "size: L"
+  color: "BA55D3"
+  description: "큰 작업 (1-3일)"
+
+- name: "size: XL"
+  color: "9932CC"
+  description: "매우 큰 작업 (3일 이상)"
+
+# Enhancement
+- name: "enhancement"
+  color: "A2EEEF"
+  description: "기능 개선"
+
+- name: "optimization"
+  color: "54C7EC"
+  description: "최적화"
+
+# Special
+- name: "breaking change"
+  color: "B60205"
+  description: "하위 호환성을 깨는 변경"
+
+- name: "needs discussion"
+  color: "D4C5F9"
+  description: "논의가 필요한 이슈"

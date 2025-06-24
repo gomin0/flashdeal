@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/your-username/flashdeal-commerce/wiki
+    about: 프로젝트 문서 및 가이드를 확인하세요
+  - name: 💬 Discussions
+    url: https://github.com/your-username/flashdeal-commerce/discussions
+    about: 질문이나 아이디어 공유는 여기서 해주세요
+  - name: 🔧 Configuration Help
+    url: https://github.com/your-username/flashdeal-commerce/discussions/categories/help
+    about: 설정이나 환경 구성에 대한 도움이 필요하시면 여기서 문의해주세요
